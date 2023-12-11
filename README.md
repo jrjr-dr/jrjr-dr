@@ -1,6 +1,6 @@
 - 👋 Halløj, mit navn er Johan
-- 👀 Jeg kan lide at klatre (dårligt), producere musik og arbejde på diverse projekter
-- 🌱 For tiden sætter jeg hjemmestudie op, og skriver en lille skakcomputer i C#
+- 👀 Når jeg ikke skriver sekvenser af 0/1'ere, kan man finde mig på en klatrevæg
+- 🌱 For tiden øver jeg mig i at spille julesange, og skriver en [lille skakcomputer](https://github.com/irvall/skakmat) i C#
 - 📫 Ræk ud til mig på jrjr *at* dr.dk
 
 <!---
